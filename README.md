@@ -8,7 +8,7 @@ A Simple Python Script created as an alternative to Pickaxe (since it does not r
 
 ## Instalation Procedure
 
-+ Clone the repo and run ``` setup.py install ``` 
++ Clone the repo and run ``` setup.py ``` 
 + After the repo is installed run ``` config.py ```
 
 ## How to use
