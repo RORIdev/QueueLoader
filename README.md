@@ -11,7 +11,7 @@ A Simple Python Script created as an alternative to Pickaxe (since it does not r
 + Install the dependency ```pip install pyCraft ``` 
 + Edit these [lines](https://github.com/RORIdev/QueueLoader/blob/7ede18198ed3ab59bcce089f41acf0c40899eadf/bot.py#L20-L22)
 
-+ MULTIMC_INSTANCE is the NAME of the multimc instance 
++ MULTIMC_INSTANCE is the NAME of the multimc instance (E.g. "1.13.2")
 
 ![](https://i.imgur.com/TQLbTk2.png) 
 
